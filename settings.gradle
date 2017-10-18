@@ -1,0 +1,3 @@
+rootProject.name = 'ilp-connector'
+include 'ilp-rpc-server'
+

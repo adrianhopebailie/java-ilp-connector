@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ilp-connector.iml" filepath="$PROJECT_DIR$/.idea/modules/ilp-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ilp-connector_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ilp-connector_main.iml" group="ilp-connector" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ilp-connector_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ilp-connector_test.iml" group="ilp-connector" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ilp-rpc-server.iml" filepath="$PROJECT_DIR$/.idea/modules/ilp-rpc-server.iml" group="ilp-rpc-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ilp-rpc-server/ilp-rpc-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ilp-rpc-server/ilp-rpc-server_main.iml" group="ilp-rpc-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ilp-rpc-server/ilp-rpc-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ilp-rpc-server/ilp-rpc-server_test.iml" group="ilp-rpc-server" />
+    </modules>
+  </component>
+</project>
